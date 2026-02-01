@@ -33,5 +33,3 @@ The analysis demonstrates that specialized regression techniques, particularly t
 
 * Incorporate external economic indicators (e.g., mortgage interest rates) to enhance the model's temporal relevance.
 * Perform a deep-dive spatial analysis to determine the specific impact of neighborhood proximity on price premiums.
-
-**Would you like me to generate a specific list of the top 10 features identified by the Backward Stepwise Regression for your final report?**
