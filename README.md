@@ -24,6 +24,7 @@ The modeling phase followed a systematic pipeline to ensure maximum predictive a
 * **Algorithms:** Evaluated a suite of models including **Linear Regression, Lasso, Ridge, Random Forest Regressor,** and **XGBoost Regressor**.
 * **Optimization:** Utilized **GridSearchCV** for hyperparameter tuning to ensure the best model fit and to mitigate overfitting.
 * **Evaluation Metrics:** Models were evaluated based on their ability to minimize error between predicted and actual sale prices (Root Mean Squared Error).
+<img width="342" height="189" alt="Screen Shot 2026-02-01 at 14 17 44" src="https://github.com/user-attachments/assets/a651b26a-30ac-40ec-bf71-d8cc193d20f3" />
 
 ### **Conclusion**
 
